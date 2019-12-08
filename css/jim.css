@@ -1,0 +1,19 @@
+.navbar {
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: .1rem;
+    background: rgba(0, 0, 0, 0,6)! important 
+    text-color: white;
+
+}
+.navbar .img {
+    height: 2rem;
+}
+nav {
+    padding-right: .8rem;
+    text-align: right;
+    background-color: red;
+}
+navbar navbar-expand-md navbar-dark bg-dark sticky-top{
+    padding-right: .8rem;
+}
